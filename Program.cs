@@ -13,6 +13,7 @@ namespace GitTest
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hallo Herr Sprenger");
+            Console.WriteLine("Hallo Herr Aui");
         }
     }
 }
